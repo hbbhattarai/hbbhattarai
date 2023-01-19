@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hbbhattarai
-- 👀 I’m interested in GIS Devloping.
+- 👀 I’m interested in GIS Web Developing and Spatail Analysis.
 - 🌱 I’m currently learning Geodjango
 - 📫 How to reach me at hemchettri56.geo@gmail.com
 
